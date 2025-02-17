@@ -12,8 +12,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunThakur172000&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur172000&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -23,17 +23,27 @@
 ✅ **Database:** MongoDB, MySQL, Firebase  
 ✅ **Tools & DevOps:** Git, Docker, Firebase, WordPress  
 
+---
 
+### 🏆 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur172000&theme=tokyonight)  
+
+---
+
+### 🔥 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TarunThakur172000&theme=tokyonight)  
+
+---
 
 ### 🏗️ Featured Projects  
-- [📌 Project 1](https://github.com/yourusername/project1) - Short description  
-- [📌 Project 2](https://github.com/yourusername/project2) - Short description  
-- [📌 Project 3](https://github.com/yourusername/project3) - Short description  
+- [📌 CSS World](https://github.com/TarunThakur172000/CSSworld) - A collection of modern CSS generators and tools for developers.  
+- [📌 Get Set Tour](https://github.com/TarunThakur172000/getSettour) - A travel booking platform with interactive maps and tour planning features.  
+- [📌 Recipe Portal](https://github.com/TarunThakur172000/RecipeBook) - A recipe management app for browsing, saving, and sharing recipes.  
 
 ---
 
 ### 🏅 Fun Stats  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=TarunThakur172000&color=blue)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 ---
