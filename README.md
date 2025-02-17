@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tarun-thakur/)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react)](https://yourportfolio.com)  
 
@@ -22,16 +22,6 @@
 ✅ **Backend:** Node.js, Express.js, PHP, Laravel  
 ✅ **Database:** MongoDB, MySQL, Firebase  
 ✅ **Tools & DevOps:** Git, Docker, Firebase, WordPress  
-
----
-
-### 🏆 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur172000&theme=tokyonight)  
-
----
-
-### 🔥 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TarunThakur172000&theme=tokyonight)  
 
 ---
 
