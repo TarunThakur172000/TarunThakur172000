@@ -23,17 +23,7 @@
 ✅ **Database:** MongoDB, MySQL, Firebase  
 ✅ **Tools & DevOps:** Git, Docker, Firebase, WordPress  
 
----
 
-### 🏆 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
-
----
-
-### 🔥 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyonight)  
-
----
 
 ### 🏗️ Featured Projects  
 - [📌 Project 1](https://github.com/yourusername/project1) - Short description  
