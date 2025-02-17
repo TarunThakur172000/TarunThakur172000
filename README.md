@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Your Name]  
+## Hi there! 👋 I'm Tarun Thakur
 🚀 Full Stack Developer | 📜 Tech Blogger | 🎨 UI Enthusiast  
 💡 Passionate about building web apps, automation, and AI-powered solutions  
 
